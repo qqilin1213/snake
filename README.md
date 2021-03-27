@@ -1,5 +1,6 @@
 # Wx-snake
 微信小游戏-贪吃蛇
+```js
     |-game.js                                         // 游戏入口
     |-.DS_Store
     |-js\
@@ -24,3 +25,4 @@
     |    |-eat.mp3
     |    |-die.mp3
     |    |-bgm.mp3
+```
